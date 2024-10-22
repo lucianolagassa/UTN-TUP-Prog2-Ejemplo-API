@@ -11,4 +11,4 @@ Ejemplo de Servidor API para la Asignatura Programacion II de la Tecnicatura Uni
 Luego de clonar el repositorio, Ingresar a la carpeta que contiene el codigo fuente, Ejecutar los siguientes comandos
 
  - Instalar dependencias: pip install -r requirements.txt
- - Iniciar servidor api: python server.py
+ - Iniciar el proyecto: python server.py
