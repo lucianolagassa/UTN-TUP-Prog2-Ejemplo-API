@@ -3,7 +3,7 @@ Ejemplo de Servidor API para la Asignatura Programacion II de la Tecnicatura Uni
 
 **************************
 
-## Requerimientos**
+## Requerimientos
  - **Python** y **PIP** instalados
 
 ## Guia de Uso**
